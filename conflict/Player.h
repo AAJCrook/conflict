@@ -3,7 +3,8 @@
 
 #include <string>
 
-class Player {
+class Player
+{
 public:
 	Player(std::string name);
 	std::string getName() const;

@@ -4,7 +4,8 @@
 #include "Board.h"
 #include "Player.h"
 
-class Game {
+class Game
+{
 
 private:
 
